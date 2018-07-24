@@ -1,5 +1,8 @@
 # multicolor_em
 
+[![DOI](https://zenodo.org/badge/142191150.svg)](https://zenodo.org/badge/latestdoi/142191150)
+
+
 ImageJ plugin to overlay color-coded nanoSIMS/EELS chemical maps over the Conventional EM images
 
 
